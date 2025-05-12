@@ -1,0 +1,15 @@
+! Title: No Cookies Blocklist
+! Description: Blokkeert domeinen gerelateerd aan No Cookies.
+! Version: 2025.05.12.01
+! Last update: 12 mei 2025
+! Homepage: https://github.com/jouw-gebruikersnaam/no-cookies-blocklist
+! Expires: 1 day
+
+||nocookies.io^
+||nocookies.nl^
+||nocookies.com^
+||nocookies.eu^
+||cdn.nocookies.io^
+||static.nocookies.io^
+||ads.nocookies.io^
+||track.nocookies.io^
