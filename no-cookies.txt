@@ -1,7 +1,7 @@
 ! Title: No Cookies Blocklist
 ! Description: Blokkeert domeinen gerelateerd aan No Cookies.
-! Version: 2025.05.12.01
-! Last update: 12 mei 2025
+! Version: 2025.05.13.01
+! Last update: 13 mei 2025
 ! Homepage: https://raw.githubusercontent.com/hack2881/no-cookies-blocklist/refs/heads/no-cookies.txt/no-cookies.txt
 ! Expires: 1 day
 
